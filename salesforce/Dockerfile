@@ -1,1 +1,0 @@
-FROM astronomerinc/ap-airflow:0.7.5-1.9.0-onbuild
